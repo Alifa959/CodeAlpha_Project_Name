@@ -1,5 +1,5 @@
 
-# CodeAlpha_Project_Name_StudentGradeTracer
+# CodeAlpha_Project_Name_StudentGradeTracker
 Name: Shaik Alifa
 Company: CODE ALPHA
 ID: CA/JUI/6645
